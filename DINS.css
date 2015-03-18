@@ -1,0 +1,48 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("files/resources/lib/jquerymobile/1.4.4/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilebutton_8 */
+#DINS_mobilebutton_8 {
+
+}
+.ui-btn.DINS_mobilebutton_8 {
+
+}
+/* mobilecontainer */
+.ui-content.DINS_mobilecontainer {
+	padding: 25px 25px 25px 25px;
+}
+/* mobilelabel_7 */
+.DINS_mobilelabel_7 {
+	text-decoration: none; font-weight: bold; font-style: italic; color: #005999; text-align: center; font-family: Helvetica; font-size: 16px;
+	margin: 4px 0px 4px 0px;
+	word-wrap: break-word;
+	white-space: normal;
+}
+/* mobiletextinput_2 */
+.DINS_mobiletextinput_2 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobiletextinput_3 */
+.DINS_mobiletextinput_3 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilebutton_4 */
+#DINS_mobilebutton_4 {
+
+}
+.ui-btn.DINS_mobilebutton_4 {
+	margin: 4px 15px 4px 115px;
+}
+/* mobileimage_5 */
+.DINS_mobileimage_5 {
+	margin: 4px 0px 4px 0px;
+	width: 265px; height: 200px;
+	display: block;
+}
+/* mobilefooter */
+.DINS_mobilefooter {
+	min-height:38px;
+}
