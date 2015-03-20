@@ -1,0 +1,36 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("files/resources/lib/jquerymobile/1.4.4/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.SIGNUP_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobiletextinput_2 */
+.SIGNUP_mobiletextinput_2 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobiletextinput_3 */
+.SIGNUP_mobiletextinput_3 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobiletextinput_4 */
+.SIGNUP_mobiletextinput_4 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobiletextinput_5 */
+.SIGNUP_mobiletextinput_5 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobilebutton_7 */
+#SIGNUP_mobilebutton_7 {
+
+}
+.ui-btn.SIGNUP_mobilebutton_7 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilefooter */
+.SIGNUP_mobilefooter {
+	min-height:38px;
+}
