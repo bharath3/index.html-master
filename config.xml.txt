@@ -1,23 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-    <widget xmlns   = "http://www.w3.org/ns/widgets"
-        xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.phonegap.example"
-        versionCode = "10" 
-        version     = "1.0.0" >
-    <name>Travel Portal</name>
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+   xmlns:gap = "http://phonegap.com/ns/1.0"
+   id        = "example"
+   version    = "1.0.0">
 
-    <!-- versionCode is optional and Android only -->
-
-
-    <description>
-         
-    </description>
-
-    <author href="https://build.phonegap.com" email="support@phonegap.com">
-        bharath.m@muraai.com
-    </author>
-<icon src="http://115.119.117.86:8208/home/muraai/CSS/images/108444920.png" width="72" height="72" />
-<icon src="http://115.119.117.86:8208/home/muraai/CSS/images/108444920.png" width="48" height="48" />
-<icon src="http://115.119.117.86:8208/home/muraai/CSS/images/108444920.png" width="36" height="36" />
+   <icon src=<icon src="res/icon/android/icon.png"   gap:platform="android"    gap:qualifier="ldpi" />
+    <icon src="res/icon/android/icon.png"   gap:platform="android"    gap:qualifier="mdpi" />
+    <icon src="res/icon/android/icon.png"   gap:platform="android"    gap:qualifier="hdpi" />
+ />
 </widget>
-
