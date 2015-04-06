@@ -4,18 +4,20 @@
         id          = "com.phonegap.example"
         versionCode = "10" 
         version     = "1.0.0" >
+    <name>Travel Portal</name>
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PhoneGap Example</name>
 
     <description>
-        An example for phonegap build docs. 
+         
     </description>
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
-        Hardeep Shoker 
+        bharath.m@muraai.com
     </author>
-
+<icon src="http://115.119.117.86:8208/home/muraai/CSS/images/108444920.png" width="72" height="72" />
+<icon src="http://115.119.117.86:8208/home/muraai/CSS/images/108444920.png" width="48" height="48" />
+<icon src="http://115.119.117.86:8208/home/muraai/CSS/images/108444920.png" width="36" height="36" />
 </widget>
 
