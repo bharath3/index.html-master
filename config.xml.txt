@@ -7,5 +7,5 @@
    <icon src=<icon src="res/icon/android/icon.png"   gap:platform="android"    gap:qualifier="ldpi" />
     <icon src="res/icon/android/icon.png"   gap:platform="android"    gap:qualifier="mdpi" />
     <icon src="res/icon/android/icon.png"   gap:platform="android"    gap:qualifier="hdpi" />
- />
+         <gap:plugin name="org.apache.cordova.geolocation" version="0.3.3" />
 </widget>
